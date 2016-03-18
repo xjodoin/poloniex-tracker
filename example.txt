@@ -1,0 +1,459 @@
+Elasticsearch INFO: 2016-03-18T20:53:57Z
+  Adding connection to http://elasticsearch.weave.local:9200/
+
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02934428', amount: '0.15690046' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02460000', amount: '7.27498659' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495693' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02495691', amount: '0.02999428' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02519675' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02500000', amount: '3.50000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02475010', amount: '342.80000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490200', amount: '4.00000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02545611' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02942572', amount: '0.23535069' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483506' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483508', amount: '44.89617106' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495698' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495691' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02495689', amount: '0.02999428' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483502' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02494400', amount: '4.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02545608', amount: '166.20355037' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495689' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02495699', amount: '0.02997865' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483508' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483509', amount: '44.89615298' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490201', amount: '174.86000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02406640' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02410371', amount: '3.31519025' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483505' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02495690', amount: '20.43727386' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02494400', amount: '8.00000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02434069' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495699' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499899', amount: '0.02992828' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483509' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483510', amount: '44.89613490' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483507' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483509', amount: '60.54065322' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483227', amount: '15.64627686' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02460000', amount: '6.77498659' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02500000', amount: '3.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02440397', amount: '167.12978296' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02490201' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02512287' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02516071', amount: '119.22000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02489900', amount: '4.00000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02545608' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02499899' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02495689', amount: '0.02997877' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02478301', amount: '28.38860904' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02475020', amount: '113.27000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483510' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483511', amount: '44.89611682' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02512082', amount: '2.81238272' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490201', amount: '140.92000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490201', amount: '139.92000000' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '1.00000000',
+       date: '2016-03-18 20:54:01',
+       rate: '0.02490201',
+       total: '0.02490201',
+       tradeID: '5074296',
+       type: 'sell' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483047', amount: '0.47009557' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495689' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499899', amount: '0.02992828' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02494700', amount: '4.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02460000', amount: '7.27498659' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483511' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483512', amount: '44.89609875' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483504' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490202', amount: '24.69300000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02500000', amount: '3.50000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483014', amount: '5.67697201' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02516071' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02499899' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499897', amount: '0.02992830' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02462500' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.00002000', amount: '1094.23300000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02494700', amount: '8.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490203', amount: '162.42000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02576016' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02408677', amount: '1057.44000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02370020' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02499897' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499895', amount: '0.02992832' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02443999', amount: '13.15999996' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490203', amount: '158.42000000' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '4.00000000',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02490203',
+       total: '0.09960812',
+       tradeID: '5074297',
+       type: 'sell' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02475030', amount: '375.02000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02499895' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499999', amount: '0.02992709' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02574990', amount: '1223.94000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02475010' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02494400' } },
+  { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02494700' } },
+  { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495690' } },
+  { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495700' } },
+  { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495900' } },
+  { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02495994' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02496000', amount: '7.75287958' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '4.00000000',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02494400',
+       total: '0.09977600',
+       tradeID: '5074298',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '4.00000000',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02494400',
+       total: '0.09977600',
+       tradeID: '5074299',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '4.00000000',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02494700',
+       total: '0.09978800',
+       tradeID: '5074300',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '4.00000000',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02494700',
+       total: '0.09978800',
+       tradeID: '5074301',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '20.43727386',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02495690',
+       total: '0.51005099',
+       tradeID: '5074302',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '4.41886807',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02495700',
+       total: '0.11028169',
+       tradeID: '5074303',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '3.08183592',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02495900',
+       total: '0.07691954',
+       tradeID: '5074304',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '28.72665931',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02495994',
+       total: '0.71701569',
+       tradeID: '5074305',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '4.00000000',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02496000',
+       total: '0.09984000',
+       tradeID: '5074306',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '4.00000000',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02496000',
+       total: '0.09984000',
+       tradeID: '5074307',
+       type: 'buy' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '0.24712042',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02496000',
+       total: '0.00616812',
+       tradeID: '5074308',
+       type: 'buy' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02434070' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02440398', amount: '210.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02544287', amount: '166.20355037' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02496000', amount: '7.74287958' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '0.01000000',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02496000',
+       total: '0.00024960',
+       tradeID: '5074309',
+       type: 'buy' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02499999' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499998', amount: '0.02994630' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490203', amount: '158.41828649' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '0.00171351',
+       date: '2016-03-18 20:54:02',
+       rate: '0.02490203',
+       total: '0.00004266',
+       tradeID: '5074310',
+       type: 'sell' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02492523', amount: '0.02000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02440397' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02519675', amount: '123.99000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02519675', amount: '421.52000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02489900', amount: '8.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02475040', amount: '116.81000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02460000', amount: '6.77498659' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483509' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02500000', amount: '3.00000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02475020' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02499998' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499997', amount: '0.02994631' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02487498', amount: '0.03000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02504260', amount: '27.15644542' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02492523', amount: '0.01000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02475030' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02475040' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02440399', amount: '167.12978296' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02492523' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02490203', amount: '32.04058929' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '0.01000000',
+       date: '2016-03-18 20:54:04',
+       rate: '0.02492523',
+       total: '0.00024925',
+       tradeID: '5074311',
+       type: 'sell' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '126.37769720',
+       date: '2016-03-18 20:54:04',
+       rate: '0.02490203',
+       total: '3.14706120',
+       tradeID: '5074312',
+       type: 'sell' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02493900', amount: '4.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02492524', amount: '15.58791696' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02499997' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499899', amount: '0.02994748' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02492524', amount: '15.58759008' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '0.00032688',
+       date: '2016-03-18 20:54:04',
+       rate: '0.02492524',
+       total: '0.00000814',
+       tradeID: '5074313',
+       type: 'sell' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02493900', amount: '8.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02445900', amount: '2.00000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02460000', amount: '7.27498659' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02492524', amount: '15.56759008' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '0.02000000',
+       date: '2016-03-18 20:54:04',
+       rate: '0.02492524',
+       total: '0.00049850',
+       tradeID: '5074314',
+       type: 'sell' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02500000', amount: '3.50000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02483512' } },
+  { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02483501', amount: '44.89629760' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'bid', rate: '0.02490201' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02475050', amount: '372.13000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02541714' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02537986', amount: '48.21700000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02891183' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02492524', amount: '15.56699952' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '0.00059056',
+       date: '2016-03-18 20:54:05',
+       rate: '0.02492524',
+       total: '0.00001471',
+       tradeID: '5074315',
+       type: 'sell' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02499899' } },
+  { type: 'orderBookModify',
+    data: { type: 'ask', rate: '0.02499897', amount: '0.02992230' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02492524', amount: '15.53699952' } },
+  { type: 'newTrade',
+    data: 
+     { amount: '0.03000000',
+       date: '2016-03-18 20:54:05',
+       rate: '0.02492524',
+       total: '0.00074775',
+       tradeID: '5074316',
+       type: 'sell' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02894329' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02475010', amount: '115.81000000' } } ]
+[ { type: 'orderBookModify',
+    data: { type: 'bid', rate: '0.02491700', amount: '4.00000000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02934428' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02537000' } } ]
+[ { type: 'orderBookRemove',
+    data: { type: 'ask', rate: '0.02942572' } } ]
