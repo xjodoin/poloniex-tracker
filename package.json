@@ -1,5 +1,5 @@
 {
-  "name": "poloniex_ticker",
+  "name": "poloniex_tracker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "autobahn": "^0.9.9",
+    "config": "^1.29.2",
     "elasticsearch": "^10.1.3",
     "lodash": "^4.8.1",
     "moment": "^2.12.0",
-    "plnx": "0.0.7",
     "winston": "^2.2.0"
   }
 }

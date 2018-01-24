@@ -4,7 +4,7 @@ var _ = require('lodash');
 var elasticsearch = require('elasticsearch');
 
 var client = new elasticsearch.Client({
-  host: 'elasticsearch.weave.local:9200',
+  host: 'elasticsearch:9200',
   log: 'info'
 });
 
