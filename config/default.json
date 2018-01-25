@@ -1,0 +1,4 @@
+{
+  "markets": ["BTC_XMR"],
+  "store" : "logs-store"
+}

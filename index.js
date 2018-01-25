@@ -9,8 +9,6 @@ winston.add(winston.transports.Console, {
 });
 
 var markets = config.get('markets');
+var store = require('./'+config.get('store'));
 
-_.forEach(markets, function(key) {
-    winston.info('Launch tracker for ' + key);
-    tracker.track(key);
-});
+tracker.track(markets,store);
