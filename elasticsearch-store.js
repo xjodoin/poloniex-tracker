@@ -8,7 +8,7 @@ var client = new elasticsearch.Client({
 module.exports = {
   write: function (toSend) {
     console.log(toSend);
-    client.create(toSend, function(error, response) {
+    client.index(toSend, function(error, response) {
       if(error) {
         console.log(error);
       } else {
