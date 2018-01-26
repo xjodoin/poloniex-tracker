@@ -60,6 +60,7 @@ var track = function(currencies, store) {
 
   poloniex.on('close', (reason, details) => {
     console.log(`Poloniex WebSocket connection disconnected`);
+    poloniex.openWebSocket({ version: 2 });
   });
 
   poloniex.on('error', (error) => {
