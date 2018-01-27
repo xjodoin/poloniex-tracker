@@ -16,13 +16,16 @@ var track = function(currencies, store) {
           var data = element.data;
           if (element.type === 'orderBookModify') {
             // rate: '0.02516071', amount: '119.22000000'
+            var rate = parseFloat(data.rate);
+            var amount = parseFloat(data.amount);
             toSend = {
               index: 'poloniex-' + moment().format('YYYY.MM.DD'),
               type: data.type,
               body: {
                 '@timestamp': new Date(),
-                rate: parseFloat(data.rate),
-                amount: parseFloat(data.amount),
+                rate: rate,
+                amount: amount,
+                total: amount * rate,
                 currency: channelName
               }
             };
