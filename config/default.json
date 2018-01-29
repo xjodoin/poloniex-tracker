@@ -1,4 +1,4 @@
 {
-  "markets": ["BTC_XMR"],
+  "markets": ["USDT_BTC"],
   "store" : "logs-store"
 }

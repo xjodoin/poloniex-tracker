@@ -1,4 +1,4 @@
 {
-  "markets": ["BTC_ZEC","BTC_XMR"],
+  "markets": ["BTC_ZEC","BTC_XMR","USDT_BTC","USDT_XMR","USDT_ZEC"],
   "store" : "elasticsearch-store"
 }
